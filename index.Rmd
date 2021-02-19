@@ -1,0 +1,30 @@
+---
+title: "Elijah Nesmith"
+image: ""
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/DAWIZZ2025"
+  - label: Email
+    url: "enesmith95@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Elijah Nesmith really loves dogs.
+
+## Education
+
+**Lehman College** | Bronx, NY
+
+
+
+## Experience
+
+** ** |
+**** | 
